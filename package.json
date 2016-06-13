@@ -1,0 +1,26 @@
+{
+  "name": "control-system",
+  "version": "1.0.0",
+  "description": "Control System for Mac using node and cordova",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wolfzer44/control-system-node-mac.git"
+  },
+  "keywords": [
+    "node",
+    "mac",
+    "process-child",
+    "cordova",
+    "learning"
+  ],
+  "author": "Matheus Oliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wolfzer44/control-system-node-mac/issues"
+  },
+  "homepage": "https://github.com/wolfzer44/control-system-node-mac#readme"
+}
